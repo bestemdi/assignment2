@@ -32,4 +32,4 @@ https://colab.research.google.com/drive/1Vw54OfI8b5E_CjFTSzvqFvyuwM_M4x_6?usp=sh
 
 ## Ссылка на репозиторий
 
-Ссылка на Git-репозиторий : [`ВСТАВЬТЕ_ССЫЛКУ_НА_РЕПОЗИТОРИЙ`](https://github.com/bestemdi/assignment2.git)
+Ссылка на Git-репозиторий : [`ССЫЛКА_НА_РЕПОЗИТОРИЙ`](https://github.com/bestemdi/assignment2.git)

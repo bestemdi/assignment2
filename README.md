@@ -20,9 +20,8 @@ Assignment 2 for AI engeeneering course
 
 ## Запуск
 
-1. Положите `df1.csv` в одну папку с `analysis.ipynb`.
-2. Откройте ноутбук в Jupyter Notebook или Google Colab.
-3. Выполните ячейки последовательно.
+1. Откройте файл `IakovlevaD_Assignment_2.ipynb` в Jupyter Notebook или Google Colab.
+2. Выполните ячейки последовательно.
 
 ## Файлы
 
